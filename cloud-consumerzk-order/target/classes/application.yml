@@ -1,0 +1,10 @@
+server:
+  port: 80
+
+spring:
+  application:
+    name: cloud-order-consumer
+  cloud:
+    zookeeper: 10.10.82.88:2181
+
+

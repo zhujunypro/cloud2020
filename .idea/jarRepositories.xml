@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="coolpad-services-hub-maven" />
+      <option name="name" value="maven" />
+      <option name="url" value="https://coolpad-maven.pkg.coding.net/repository/services-hub/maven/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="coolpad-components-common" />
+      <option name="name" value="common" />
+      <option name="url" value="https://coolpad-maven.pkg.coding.net/repository/components/common/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="coolpad-abtest-experiment-client" />
+      <option name="name" value="experiment-client" />
+      <option name="url" value="https://coolpad-maven.pkg.coding.net/repository/abtest/experiment-client/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="coolpad-abtest-experiment-common" />
+      <option name="name" value="experiment-common" />
+      <option name="url" value="https://coolpad-maven.pkg.coding.net/repository/abtest/experiment-common/" />
+    </remote-repository>
+  </component>
+</project>

@@ -22,8 +22,11 @@
         <module name="cloud-consumerconsul-order80" />
         <module name="cloud-config-centre3344" />
         <module name="cloud-eureka-server" />
+        <module name="stream-rabbitmq-provider8801" />
         <module name="cloud-consumer-order" />
+        <module name="stream-rabbitmq-consumer8802" />
         <module name="consumer-feign-order80" />
+        <module name="stream-rabbitmq-consumer8803" />
         <module name="cloud-consumerzk-order" />
       </profile>
     </annotationProcessing>
@@ -47,6 +50,9 @@
       <module name="consumer-hystrix-dashboard9001" target="1.8" />
       <module name="gateway9527" target="1.8" />
       <module name="provider-hystrix-payment8001" target="1.8" />
+      <module name="stream-rabbitmq-consumer8802" target="1.8" />
+      <module name="stream-rabbitmq-consumer8803" target="1.8" />
+      <module name="stream-rabbitmq-provider8801" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -21,6 +21,9 @@
       <module fileurl="file://$PROJECT_DIR$/consumer-hystrix-dashboard9001/consumer-hystrix-dashboard9001.iml" filepath="$PROJECT_DIR$/consumer-hystrix-dashboard9001/consumer-hystrix-dashboard9001.iml" />
       <module fileurl="file://$PROJECT_DIR$/gateway9527/gateway9527.iml" filepath="$PROJECT_DIR$/gateway9527/gateway9527.iml" />
       <module fileurl="file://$PROJECT_DIR$/provider-hystrix-payment8001/provider-hystrix-payment8001.iml" filepath="$PROJECT_DIR$/provider-hystrix-payment8001/provider-hystrix-payment8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stream-rabbitmq-consumer8802/stream-rabbitmq-consumer8802.iml" filepath="$PROJECT_DIR$/stream-rabbitmq-consumer8802/stream-rabbitmq-consumer8802.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stream-rabbitmq-consumer8803/stream-rabbitmq-consumer8803.iml" filepath="$PROJECT_DIR$/stream-rabbitmq-consumer8803/stream-rabbitmq-consumer8803.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stream-rabbitmq-provider8801/stream-rabbitmq-provider8801.iml" filepath="$PROJECT_DIR$/stream-rabbitmq-provider8801/stream-rabbitmq-provider8801.iml" />
     </modules>
   </component>
 </project>

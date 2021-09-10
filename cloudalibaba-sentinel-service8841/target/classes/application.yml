@@ -12,6 +12,13 @@ spring:
         dashboard: localhost:8080
         #default 8719, if not +1 +1...
         port: 8719
+      datasource:
+        ds1:
+          nacos:
+            server-addr: localhost:8848
+            dataId: cloudalibaba-sentinel-servce
+            data-type： json
+            rule-type: flow
 management:
   endpoints:
     web:

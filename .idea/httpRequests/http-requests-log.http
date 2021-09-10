@@ -1,0 +1,8 @@
+GET http://localhost：83/paymentSQL/{{id}}
+
+###
+
+GET http://localhost/paymentSQL/{{id}}
+
+###
+

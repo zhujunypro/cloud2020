@@ -7,26 +7,31 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="cloud-providerconsul-payment8006" />
-        <module name="cloud-config-client3355" />
         <module name="cloud-config-client3366" />
-        <module name="cloud-api-common" />
-        <module name="gateway9527" />
         <module name="consumer-feign-hystrix-order80" />
         <module name="cloud-eureka-server2" />
         <module name="cloud-provider-payment" />
         <module name="cloud-provider-payment2" />
-        <module name="consumer-hystrix-dashboard9001" />
-        <module name="provider-hystrix-payment8001" />
         <module name="cloud-provider-payment4" />
         <module name="cloud-consumerconsul-order80" />
         <module name="cloud-config-centre3344" />
-        <module name="cloud-eureka-server" />
         <module name="stream-rabbitmq-provider8801" />
+        <module name="consumer-feign-order80" />
+        <module name="cloud-providerconsul-payment8006" />
+        <module name="cloudalibaba-config-nacos-client3377" />
+        <module name="cloud-config-client3355" />
+        <module name="cloud-api-common" />
+        <module name="gateway9527" />
+        <module name="cloudalibaba-consumer-order83" />
+        <module name="consumer-hystrix-dashboard9001" />
+        <module name="provider-hystrix-payment8001" />
+        <module name="cloud-eureka-server" />
+        <module name="cloudalibaba-provider-payment9002" />
+        <module name="cloudalibaba-provider-payment9001" />
         <module name="cloud-consumer-order" />
         <module name="stream-rabbitmq-consumer8802" />
-        <module name="consumer-feign-order80" />
         <module name="stream-rabbitmq-consumer8803" />
+        <module name="cloudalibaba-sentinel-service8841" />
         <module name="cloud-consumerzk-order" />
       </profile>
     </annotationProcessing>
@@ -45,6 +50,13 @@
       <module name="cloud-provider-payment4" target="1.8" />
       <module name="cloud-providerconsul-payment8006" target="1.8" />
       <module name="cloud2020" target="1.8" />
+      <module name="cloudalibaba-config-nacos-client3377" target="1.8" />
+      <module name="cloudalibaba-consumer-order83" target="1.8" />
+      <module name="cloudalibaba-provider-payment9001" target="1.8" />
+      <module name="cloudalibaba-provider-payment9002" target="1.8" />
+      <module name="cloudalibaba-provider-payment9003" target="1.8" />
+      <module name="cloudalibaba-provider-payment9004" target="1.8" />
+      <module name="cloudalibaba-sentinel-service8841" target="1.8" />
       <module name="consumer-feign-hystrix-order80" target="1.8" />
       <module name="consumer-feign-order80" target="1.8" />
       <module name="consumer-hystrix-dashboard9001" target="1.8" />

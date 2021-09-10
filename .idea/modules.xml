@@ -16,6 +16,11 @@
       <module fileurl="file://$PROJECT_DIR$/cloud-provider-payment4/cloud-provider-payment4.iml" filepath="$PROJECT_DIR$/cloud-provider-payment4/cloud-provider-payment4.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-providerconsul-payment8006/cloud-providerconsul-payment8006.iml" filepath="$PROJECT_DIR$/cloud-providerconsul-payment8006/cloud-providerconsul-payment8006.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud2020.iml" filepath="$PROJECT_DIR$/cloud2020.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudalibaba-config-nacos-client3377/cloudalibaba-config-nacos-client3377.iml" filepath="$PROJECT_DIR$/cloudalibaba-config-nacos-client3377/cloudalibaba-config-nacos-client3377.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudalibaba-consumer-order83/cloudalibaba-consumer-order83.iml" filepath="$PROJECT_DIR$/cloudalibaba-consumer-order83/cloudalibaba-consumer-order83.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudalibaba-provider-payment9001/cloudalibaba-provider-payment9001.iml" filepath="$PROJECT_DIR$/cloudalibaba-provider-payment9001/cloudalibaba-provider-payment9001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudalibaba-provider-payment9002/cloudalibaba-provider-payment9002.iml" filepath="$PROJECT_DIR$/cloudalibaba-provider-payment9002/cloudalibaba-provider-payment9002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudalibaba-sentinel-service8841/cloudalibaba-sentinel-service8841.iml" filepath="$PROJECT_DIR$/cloudalibaba-sentinel-service8841/cloudalibaba-sentinel-service8841.iml" />
       <module fileurl="file://$PROJECT_DIR$/consumer-feign-hystrix-order80/consumer-feign-hystrix-order80.iml" filepath="$PROJECT_DIR$/consumer-feign-hystrix-order80/consumer-feign-hystrix-order80.iml" />
       <module fileurl="file://$PROJECT_DIR$/consumer-feign-order80/consumer-feign-order80.iml" filepath="$PROJECT_DIR$/consumer-feign-order80/consumer-feign-order80.iml" />
       <module fileurl="file://$PROJECT_DIR$/consumer-hystrix-dashboard9001/consumer-hystrix-dashboard9001.iml" filepath="$PROJECT_DIR$/consumer-hystrix-dashboard9001/consumer-hystrix-dashboard9001.iml" />

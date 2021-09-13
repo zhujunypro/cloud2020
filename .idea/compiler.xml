@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="cloud-config-client3366" />
+        <module name="seata-order-service2001" />
         <module name="consumer-feign-hystrix-order80" />
         <module name="cloud-eureka-server2" />
         <module name="cloud-provider-payment" />
@@ -15,6 +16,7 @@
         <module name="cloud-provider-payment4" />
         <module name="cloud-consumerconsul-order80" />
         <module name="cloud-config-centre3344" />
+        <module name="seata-storage-service" />
         <module name="stream-rabbitmq-provider8801" />
         <module name="consumer-feign-order80" />
         <module name="cloud-providerconsul-payment8006" />
@@ -29,6 +31,7 @@
         <module name="cloudalibaba-provider-payment9002" />
         <module name="cloudalibaba-provider-payment9001" />
         <module name="cloud-consumer-order" />
+        <module name="seata-storage-service2002" />
         <module name="stream-rabbitmq-consumer8802" />
         <module name="stream-rabbitmq-consumer8803" />
         <module name="cloudalibaba-sentinel-service8841" />
@@ -62,6 +65,9 @@
       <module name="consumer-hystrix-dashboard9001" target="1.8" />
       <module name="gateway9527" target="1.8" />
       <module name="provider-hystrix-payment8001" target="1.8" />
+      <module name="seata-order-service2001" target="1.8" />
+      <module name="seata-storage-service" target="1.8" />
+      <module name="seata-storage-service2002" target="1.8" />
       <module name="stream-rabbitmq-consumer8802" target="1.8" />
       <module name="stream-rabbitmq-consumer8803" target="1.8" />
       <module name="stream-rabbitmq-provider8801" target="1.8" />
